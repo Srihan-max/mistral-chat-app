@@ -1,6 +1,30 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+
+Mistral Chat App
+
+A simple chat application built with **Next.js**, **TypeScript**, and **Tailwind CSS**, using the **Mistral AI API**.
+
+Features
+- Real-time chat using Mistral's `mistral-large-latest` model
+- Polished UI with TailwindCSS
+- Typing indicator + auto scroll
+- Error handling and clean responses
+
+Setup
+Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/mistral-chat-app.git
+   cd mistral-chat-app
+
+Install dependencies:
+## npm install
+
+Create a .env.local file:
+MISTRAL_API_KEY=your_api_key_here
+MISTRAL_API_URL=https://api.mistral.ai/v1/chat/completions
+
+App runs on http://localhost:3000
 
 First, run the development server:
 
