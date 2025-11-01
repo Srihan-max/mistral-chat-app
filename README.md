@@ -1,3 +1,5 @@
+This is the link for the online website : (https://mistral-chat-app-lovat.vercel.app), the first message doesn't work but the messages after do.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 
